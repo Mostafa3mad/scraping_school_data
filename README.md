@@ -78,5 +78,5 @@ Full dataset: `all_schools_contacts.csv`
 Built by Mostafa Emad — available for freelance Python scraping & automation projects.
 
 - [LinkedIn](https://www.linkedin.com/in/mostafa--emad?originalSubdomain=eg)
-- [GitHub](https://github.com/)
+- [GitHub](https://github.com/Mostafa3mad)
 - [X (Twitter)](https://x.com/mostafa___emad)
