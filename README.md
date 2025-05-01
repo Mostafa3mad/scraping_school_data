@@ -68,8 +68,8 @@ Full dataset: `all_schools_contacts.csv`
 
 ## 📸 Output Snapshots
 
-![Preview 1](./sample_output_1.png)
-![Preview 2](./sample_output_2.png)
+![Preview 1](./Screenshot%202025-05-01%20210957.png)
+![Preview 2](./Screenshot%202025-05-01%20211213.png)
 
 ---
 
